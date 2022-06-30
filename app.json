@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "travel_app",
-    "slug": "travel_app",
+    "name": "ricebest_app",
+    "slug": "ricebest_app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/ricebest_icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/ricebest_splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -22,9 +22,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/ricebest_icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.agnieve70.ricebest_app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
